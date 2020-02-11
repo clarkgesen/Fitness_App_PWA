@@ -3,8 +3,8 @@
     "name": "Fitness Tracker App",
     "icons": [
         {
-            "src":"/assets/icons8-weight-64.png",
-            "sizes":"64x64",
+            "src":"/assets/gym.png",
+            "sizes":"512x512",
             "type": "image/png"
         }
     ],

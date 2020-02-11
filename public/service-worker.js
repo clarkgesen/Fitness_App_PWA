@@ -1,7 +1,11 @@
 const FILES_TO_CACHE = [
-    'index.html',
-    'exercise.html',
-    'stats.html'
+    '/index.html',
+    '/exercise.html',
+    '/stats.html',
+    '/manifest.webmanifest',
+    '/style.css',
+    '/workout-style.css'
+
 ]
 
 const CACHE_NAME = "static-cache-v2";
